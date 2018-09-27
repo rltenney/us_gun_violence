@@ -1,0 +1,3 @@
+# Problem Statement
+
+In the media deluge that follows each high profile mass shooting in America, there is often an article or two touching upon the relationship between the stock market and mass murder. Anecdotally, we expect to see the stock prices for major gun companies rise in the days following a mass shooting--the rationale for this being that buyers expect the sale of arms to be further regulated or, for certain models (the notorious AR-15, for example), to be banned outright. For this project, I will quantify the relationship, if any, between stock prices of the three major firearms manufacturers in America--Smith & Wesson, Sturm Ruger (RGR) and Vista Outdoor (VSTO)--and the incidence of mass shootings. 
