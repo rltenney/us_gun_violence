@@ -1,0 +1,501 @@
+Incident Date,State,City Or County,Address,# Killed,# Injured
+2017-04-29,California,Los Angeles (Boyle Heights),Murchison St and Lancaster Ave,1,3
+2017-04-30,California,San Diego,9080 Judicial Dr,2,6
+2017-04-30,South Carolina,Loris,268 N Sea Green Rd,1,5
+2017-04-30,Florida,Jacksonville,1200 Ken Knight Dr N,0,5
+2017-04-30,Kansas,Topeka,4104 SW 28th,4,1
+2017-05-01,Texas,Dallas,3200 block of Reynolds Ave,2,3
+2017-05-02,Florida,Jacksonville,1566 West 24th Street,1,3
+2017-05-04,Michigan,Flint,600 block of Copeman Boulevard,1,3
+2017-05-07,Illinois,Chicago,2600 block of 46th Pl,2,8
+2017-05-09,Kansas,Kansas City,1900 block of S. Boeke,3,1
+2017-05-10,New Jersey,Trenton,300 block of Centre St,1,3
+2017-05-14,Texas,Fort Worth,8600 block of Calmont Ave,0,4
+2017-05-14,Florida,Avon Park,Hal McRae Blvd and Delaney Ave,0,5
+2017-05-14,Illinois,Dolton,14112 Chicago Road,0,5
+2017-05-14,Arkansas,Jonesboro,311 S Main St,1,6
+2017-05-16,South Carolina,Ruffin,21785 Lowcountry Hwy,3,1
+2017-05-20,Pennsylvania,Philadelphia,2100 block of W Huntingdon St,0,10
+2017-05-21,Arizona,Mesa,441 N Val Vista Dr,0,4
+2017-05-21,Iowa,Des Moines,4300 Beaver Dr,1,3
+2017-05-26,Florida,Miami,2730 NW 167th St,0,4
+2017-05-27,New York,New York (Manhattan),318 W 14th St,0,4
+2017-05-27,Mississippi,Bogue Chitto,2871 Lee Dr,8,1
+2017-05-27,District of Columbia,Washington,100 block of Q Street Northwest,1,7
+2017-05-28,Mississippi,Moss Point,6103 Hwy. 63,0,5
+2017-05-28,New Jersey,Paterson,86 Main Street,1,5
+2017-05-28,Alabama,Phenix City,100 block of 6th Street South,0,12
+2017-05-29,Kentucky,Louisville,231 Witherspoon St,1,3
+2017-05-30,Ohio,Middletown,1200 Elliott Dr,1,3
+2017-06-01,Missouri,Saint Louis,Beacon Ave and Lillian Ave,3,1
+2017-06-02,California,Los Angeles,89th St and Broadway,1,3
+2017-06-02,Texas,Laredo,5301 McPherson Rd,2,3
+2017-06-03,Louisiana,New Orleans,3717 Tulane Ave,3,2
+2017-06-03,Missouri,Saint Louis,1600 Block of Union Blvd,2,2
+2017-06-05,Florida,Orlando,2427 Forsyth Rd,6,0
+2017-06-06,Utah,Sandy,2232 Alta Canyon Drive,3,2
+2017-06-08,Louisiana,New Orleans,3650 Franklin Ave,0,6
+2017-06-09,Texas,Fort Worth,East Davis Avenue and New York Avenue,2,5
+2017-06-10,Tennessee,Memphis,571 East Street,0,4
+2017-06-11,Texas,Houston,505 Cypress Station Dr,0,4
+2017-06-11,Tennessee,Chattanooga,4272 Bonny Oaks Drive,0,4
+2017-06-11,Illinois,Chicago,3300 block of W Douglas Blvd,0,9
+2017-06-13,Missouri,Saint Louis (University City),Ferguson Ave and Plymouth Ave,0,4
+2017-06-13,Maryland,Baltimore,1200 block of Bonaparte Avenue,2,2
+2017-06-13,Maryland,Baltimore,3300 block of Ayrdale Avenue,0,4
+2017-06-14,California,San Francisco,720 San Bruno,4,2
+2017-06-14,Virginia,Alexandria,420 E Monroe Ave,1,5
+2017-06-14,Ohio,Canton,14th St. NE and Gibbs Ave. NE,0,4
+2017-06-15,New Mexico,La Madera,491 NM 111,5,0
+2017-06-15,Virginia,Richmond,4053 Old Brook Road,1,3
+2017-06-17,Ohio,Columbus,6252 Busch Blvd,1,4
+2017-06-17,Illinois,Chicago,1 block of North Latrobe,0,4
+2017-06-18,South Carolina,Myrtle Beach,311 N Ocean Blvd,0,7
+2017-06-18,Illinois,Chicago,3300 block of W Crystal St,0,4
+2017-06-18,District of Columbia,Washington,3100 block of Buena Vista Terrace SE,0,4
+2017-06-18,Missouri,Saint Louis,1900 block of N 14th St,3,2
+2017-06-22,Georgia,Atlanta,1100 block of Osborne Street,1,6
+2017-06-24,New Jersey,Willingboro,Pastoral Lane,0,4
+2017-06-24,New York,New York (Manhattan),114th St and Manhattan Ave,0,5
+2017-06-24,Florida,Fort Lauderdale,2335 NW 16th Ct,1,4
+2017-06-25,Missouri,Saint Louis,5000 block of Thekla Ave,1,3
+2017-06-25,District of Columbia,Washington,5900 block of Southern Ave SE,0,4
+2017-06-27,Illinois,Chicago,200 block of S Lotus,0,5
+2017-06-30,New York,Bronx,1650 Grand Concourse,2,6
+2017-07-01,Illinois,Momence,2727 S 13000 Rd E,0,4
+2017-07-01,Arkansas,Little Rock,220 W 6th St,0,25
+2017-07-01,California,Oakland,3200 Humboldt Ave,0,4
+2017-07-01,New Jersey,Newark,Lincoln Park and Pennsylvania Avenue,2,2
+2017-07-02,New Jersey,Jersey City,Wilkinson Avenue,0,4
+2017-07-02,South Carolina,Greenwood,SC 72 Bypass,0,4
+2017-07-03,Michigan,Pontiac,50 block of Thorpe St,1,3
+2017-07-03,Alabama,Prattville,112 US 82,3,1
+2017-07-04,North Carolina,Raleigh,105 E South St,1,3
+2017-07-04,Virginia,Hampton,500 block of Patterson Ave,1,4
+2017-07-04,Florida,Orlando (Pine Castle),501 W Lancaster Rd,0,4
+2017-07-05,Maine,Madison,300 block of Russell Rd,4,1
+2017-07-05,Illinois,Chicago (Roseland),11000 block of S Eberhart,2,2
+2017-07-05,Georgia,Savannah,Jefferson Street and West St. Julian Street,0,4
+2017-07-06,Mississippi,Meridian,Eighth Ave,0,4
+2017-07-08,Ohio,Cincinnati,9917 Capstan Dr,1,8
+2017-07-08,Illinois,Alton,700 block of Oakwood,0,4
+2017-07-09,Virginia,Lawrenceville,500 block Sturgeon Rd,0,7
+2017-07-15,Pennsylvania,Philadelphia,21st and Fitzwater,1,3
+2017-07-15,Illinois,Chicago,12200 block of S Throop St,0,4
+2017-07-18,Arizona,El Mirage,NW Grand Ave and W Thunderbird Rd,0,4
+2017-07-18,Wisconsin,Milwaukee,3000 Block of N 39th St,0,4
+2017-07-18,New Jersey,Trenton,Hewitt St and Division St,1,3
+2017-07-19,California,Los Angeles,Imperial Hwy and Broadway,1,3
+2017-07-19,Virginia,Richmond,2300 block of Bethel St,0,5
+2017-07-22,Ohio,Cincinnati,130 E Clifton Ave,0,5
+2017-07-23,Louisiana,Baton Rouge,10360 Ave H,0,4
+2017-07-23,Illinois,Chicago,1500 block of East 82nd St,1,3
+2017-07-25,Florida,Jacksonville,1040 Golfair Boulevard,1,3
+2017-07-26,North Carolina,High Point,2111 E. Green Drive,1,6
+2017-07-27,Illinois,Chicago,2000 block of E 71st St,1,4
+2017-07-28,Delaware,Wilmington,400 block of N Washington St,0,4
+2017-07-29,New York,Buffalo,200 block of Carl St,1,4
+2017-07-29,North Carolina,Salisbury,115 W Fisher St,2,3
+2017-07-30,Texas,El Paso,1810 George Dieter Dr,1,3
+2017-07-30,Virginia,Norfolk,1500 block of Azalea Garden Rd,1,5
+2017-07-31,Illinois,Decatur,Jasper St and Main St,0,4
+2017-08-01,Illinois,Chicago,800 block of N Monticello Ave,0,4
+2017-08-01,California,Fresno,Mariposa St and A St,0,7
+2017-08-01,Washington,Toppenish,8000 Block of Lateral C Rd,0,6
+2017-08-02,Maryland,Baltimore,900 block of N Broadway,0,4
+2017-08-03,District of Columbia,Washington,3426 18th St NE,1,3
+2017-08-04,Montana,Lodge Grass,200 block of North Helen Street,3,2
+2017-08-05,Florida,Tallahassee,1939 W Tennessee St,1,3
+2017-08-05,South Carolina,Allendale,300 block of Ellis St,1,3
+2017-08-05,New Jersey,Lakewood,900 block of Brook Road,0,4
+2017-08-06,New York,Bronx,Wickham Ave,0,6
+2017-08-06,California,Oakland,1000 block of 106th Avenue,0,7
+2017-08-06,New York,Bronx,Unionport Rd,0,4
+2017-08-08,Illinois,Chicago,1 block of East 37th Street,1,6
+2017-08-12,Missouri,Saint Louis,12310 Bellefontaine Rd,1,3
+2017-08-13,Pennsylvania,Philadelphia,39th St and Melon St,0,5
+2017-08-13,Virginia,Suffolk,8700 block of Quay Rd,0,4
+2017-08-13,California,Sacramento,4000 Block of Martin Luther King Jr Blvd,0,4
+2017-08-14,California,North Hollywood,Morrison St and Klump Ave,2,2
+2017-08-16,New York,Wyandanch,Merritt Ave and 15th St,0,4
+2017-08-19,Ohio,Cleveland,11143 Superior Ave,1,4
+2017-08-20,New York,Brooklyn,100th St and Ave M,0,4
+2017-08-20,Illinois,Chicago,11901 S Loomis St,2,5
+2017-08-21,New Jersey,Newark,Fabyan Place,0,4
+2017-08-21,New Jersey,Newark,700 block of S 19th St,1,3
+2017-08-21,Maryland,Baltimore,Cottage Avenue and Park Heights Avenue,1,3
+2017-08-21,North Carolina,Whitakers,980 Fishing Creek Rd,4,0
+2017-08-21,Tennessee,Memphis,262 Decatur St,0,4
+2017-08-22,Illinois,Chicago,300 block of N Central Ave,0,4
+2017-08-24,Missouri,Saint Louis,10400 block of Balmoral Dr,4,0
+2017-08-25,Florida,Gainesville,1600 NE 8th Ave,0,4
+2017-08-27,California,Sacramento,7760 24th St,1,4
+2017-08-27,Indiana,Evansville,1127 Chestnut St,1,3
+2017-08-28,New Mexico,Clovis,701 N Main St,2,4
+2017-09-02,Illinois,Chicago,8300 block of S Hermitage,1,3
+2017-09-02,Kentucky,Louisville,8008 Watterson Trail,0,4
+2017-09-03,California,Inglewood,10100 block of S Firmona Ave,2,3
+2017-09-04,Illinois,Bellwood,1000 block of Bellwood Ave,0,4
+2017-09-06,Illinois,Chicago,2700 block of Madison,0,4
+2017-09-09,Alabama,Selma,Kings Bend Road,0,4
+2017-09-10,Texas,Plano,1712 West Spring Creek Parkway,9,1
+2017-09-10,Louisiana,New Orleans,2101 N Claiborne Ave,1,3
+2017-09-13,Washington,Rockford,14626 S Jackson Rd,1,3
+2017-09-13,Pennsylvania,York,400 block of S Duke St,0,4
+2017-09-13,Tennessee,Memphis,1000 block of Morehead St,1,5
+2017-09-13,Pennsylvania,Philadelphia,3100 block of N 2nd St,0,4
+2017-09-16,South Carolina,Columbia,920 Lady Street,0,8
+2017-09-17,Virginia,Petersburg,300 Mistletoe St,1,4
+2017-09-17,Michigan,Detroit,5000 block of Stanton Street,1,3
+2017-09-20,Indiana,Gary,4300 block of 23rd Ct,0,5
+2017-09-23,Connecticut,Hartford,1164 Albany Ave,2,2
+2017-09-23,Illinois,Danville,Seminary St and Jackson St,0,5
+2017-09-23,California,Bakersfield,818 Real Rd,1,4
+2017-09-24,New Jersey,Mays Landing,6000 block of Hoover Dr,1,3
+2017-09-24,New York,Syracuse,1226 E Fayette St,0,4
+2017-09-24,Tennessee,Antioch,3890 Pin Hook Rd,1,8
+2017-09-24,Maryland,Baltimore,500 block of E. Patapsco Avenue,0,4
+2017-09-26,Tennessee,Memphis,2531 Chelsea Ave,0,4
+2017-09-26,Pennsylvania,Philadelphia,100 block of Pastorius St,1,3
+2017-09-26,Maryland,Baltimore,3200 block of Lyndale Ave,2,2
+2017-09-28,Louisiana,New Orleans,2001 N Rocheblave St,1,3
+2017-09-30,Tennessee,Memphis,800 block of Kerr Avenue,1,3
+2017-10-01,Nevada,Las Vegas,3950 Las Vegas Blvd S,59,441
+2017-10-01,Kansas,Lawrence,1000 block of Massachusetts St,3,2
+2017-10-03,Florida,Miami,2051 NW 65th St,0,4
+2017-10-05,Arizona,Casa Grande,400 block of W 13th Street,4,0
+2017-10-06,Illinois,Chicago,8000 block of S Marshfield,0,5
+2017-10-07,Arizona,Phoenix,87th Ave and Thomas Rd,0,4
+2017-10-09,Texas,Houston,3352 Old Spanish Trail,0,5
+2017-10-10,California,San Francisco,25th St and Treat Ave,0,4
+2017-10-11,Ohio,Pedro,15497 SR 93,4,0
+2017-10-12,California,Aliso Viejo,6 Asbury Ct,2,2
+2017-10-15,Texas,Houston,6233 Gulfton St,2,2
+2017-10-15,Arizona,Phoenix,107th Ave and Camelback Rd,1,3
+2017-10-16,Mississippi,Meridian,5th Street,1,3
+2017-10-17,New York,Brooklyn,181 Martense St,0,4
+2017-10-18,Maryland,Edgewood,2111 Emmorton Park Rd,3,3
+2017-10-21,Florida,Tampa,400 Block of E Nordica St,0,4
+2017-10-21,Pennsylvania,Chester,1200 block of W Carlas Ln,0,4
+2017-10-21,Tennessee,Nashville,1277 12th Ave S,0,4
+2017-10-21,Florida,Jacksonville,164 E Eubanks St,0,4
+2017-10-22,Alabama,Lanett,1606 19th St Sw,2,7
+2017-10-22,Connecticut,Hartford,Wethersfield Avenue and Elliott Street,0,4
+2017-10-23,California,Clearlake Oaks,13000 block of Anchor Village,2,3
+2017-10-27,California,San Francisco,1100 block of Fillmore,0,4
+2017-10-27,Kentucky,Louisville,1716 Prentice St,0,6
+2017-10-28,Virginia,Petersburg,N Sycamore St and Franklin,1,3
+2017-10-28,Ohio,Toledo,1327 N Huron St,0,4
+2017-10-29,Texas,Austin,5500 block of Ave F,1,3
+2017-11-03,New York,Buffalo,147 Roosevelt Ave,0,4
+2017-11-03,Minnesota,Minneapolis,10th Ave S and E 24th St,0,4
+2017-11-03,Louisiana,Lacombe,27600 block of Mirmar Street,1,4
+2017-11-03,California,Gardena,E 163rd St and S Main St,0,4
+2017-11-04,California,Santa Monica,1515 Ocean Avenue,1,3
+2017-11-04,Ohio,Youngstown,2810 Market St,0,4
+2017-11-04,Texas,Austin,N Lamar Blvd and Masterson Pass,0,4
+2017-11-05,Texas,Sutherland Springs,216 4th St,27,20
+2017-11-09,Pennsylvania,Philadelphia,1800 block of Ringgold,0,4
+2017-11-10,Ohio,Dayton (Trotwood),193 Olive Rd,0,4
+2017-11-11,North Carolina,Fayetteville,2835 Bragg Blvd,1,5
+2017-11-11,Louisiana,New Orleans,Forstall Street and Burgundy Street,1,5
+2017-11-11,Texas,Dallas,2532 Martin Luther King Jr Blvd,1,3
+2017-11-12,Georgia,Atlanta,50 Lower Alabama St,2,2
+2017-11-12,California,Fresno,S Calvin Ave,0,5
+2017-11-12,Indiana,Gary,4601 Melton Rd,0,7
+2017-11-14,California,Corning,17357 Stagecoach Rd,6,12
+2017-11-14,California,Richmond,900 Block of View Dr,2,2
+2017-11-16,Georgia,Columbus,1400 block of 15th Street,0,7
+2017-11-17,Louisiana,New Iberia,900 Block of Mississippi St,0,4
+2017-11-18,Minnesota,Minneapolis,3600 block of Emerson Avenue North,0,4
+2017-11-24,Ohio,Cleveland,11618 Buckeye Rd,1,5
+2017-11-24,Mississippi,Brookhaven,119 Martin Street,1,6
+2017-11-30,Michigan,Detroit,11000 block of Gunston,1,4
+2017-12-02,Michigan,Detroit,5200 Woodward Avenue,0,4
+2017-12-03,Tennessee,Memphis,656 Marshall Ave,1,3
+2017-12-04,Pennsylvania,Pittsburgh,7200 block of Everton St,2,2
+2017-12-06,Illinois,Chicago,4620 N Broadway,0,4
+2017-12-09,Massachusetts,Boston,Proctor St,0,4
+2017-12-12,Texas,Garland,1301 Rivercrest Ln,0,4
+2017-12-12,Kentucky,Louisville,17th and Gallagher Streets,0,4
+2017-12-13,Ohio,Columbus,200 block of E Barthman Ave,1,3
+2017-12-15,California,Pacoima,13041 Jouett Street,0,5
+2017-12-16,Mississippi,Mc Cool (Mccool),Ferguson Rd,0,4
+2017-12-21,Pennsylvania,Philadelphia,6600 block of Dorel St,1,3
+2017-12-21,Louisiana,Lafayette,1500 block of N University Avenue,0,4
+2017-12-23,Alabama,Birmingham,3rd Ave N and 9th St N,0,4
+2017-12-23,Louisiana,Eunice,100 block of City Avenue,1,3
+2017-12-24,Alabama,Troy,100 block of Chapman St,1,4
+2017-12-24,Mississippi,Vicksburg,1111 Mulberry Street,0,5
+2017-12-26,Florida,Miami,NW 18th Ave and 86th Ter,0,5
+2017-12-27,Nevada,Las Vegas,3750 E Bonanza Rd,2,2
+2017-12-31,New Jersey,Long Branch,635 Wall St,4,0
+2017-12-31,Illinois,Chicago,2335 Howard St,0,4
+2017-12-31,Colorado,Littleton (Highlands Ranch),3404 E County Line Rd,2,6
+2018-01-01,Alabama,Huntsville,2025 Sparkman Dr NW,1,3
+2018-01-04,Arkansas,Brinkley,615 W 6th St,1,3
+2018-01-05,Mississippi,Hattiesburg,6168 US 49,0,6
+2018-01-07,Alabama,Union Springs,U.S. Highway 29,1,5
+2018-01-07,Florida,Plantation,5225 W Broward Blvd,0,4
+2018-01-11,Missouri,Saint Robert (St Robert),St Robert Outer Road and Houston Road,2,2
+2018-01-12,Tennessee,Nashville,2614 Jenkins Ct,3,2
+2018-01-14,Alabama,Madison,101 Westchester Dr,0,4
+2018-01-14,Alabama,Eutaw,809 Mesopotamia St,1,4
+2018-01-15,Florida,Alachua,14223 NW 156th Pl,0,5
+2018-01-17,District of Columbia,Washington,2000 block of 16th St SE,1,3
+2018-01-21,Illinois,Chicago,3200 W Division St,0,4
+2018-01-21,Florida,Orlando,3101 Willow Bend Blvd,0,4
+2018-01-23,Kentucky,Benton,416 High School Rd,2,14
+2018-01-23,Pennsylvania,Philadelphia,N 24th St and Ridge Ave,0,4
+2018-01-25,District of Columbia,Washington,1600 block of Kenilworth Ave NE,0,4
+2018-01-27,Kentucky,Bowling Green,645 Pearl Street,0,4
+2018-01-27,California,Los Angeles,243 East 119th St,0,5
+2018-01-28,Pennsylvania,Reading,123 S 3rd St,4,0
+2018-01-28,Indiana,Indianapolis,1313 N Sherman Dr,2,3
+2018-01-28,Pennsylvania,Melcroft,1301 Indian Creek Valley Rd,5,0
+2018-01-31,Missouri,Saint Louis,Goodfellow Blvd and Dr Martin Luther King Dr,0,4
+2018-02-03,Ohio,Cleveland (Garfield Heights),11321 Broadway Ave,1,5
+2018-02-05,Colorado,Colorado Springs,4225 Galley Rd,2,4
+2018-02-07,Florida,Lake Worth (Lantana),I-95 and Lantana Ave,3,3
+2018-02-10,Kentucky,Paintsville,413 Mill Street,5,0
+2018-02-11,Michigan,Detroit,19432 Lamont Street,4,3
+2018-02-13,Louisiana,New Orleans,5400 block of Andry Street,3,3
+2018-02-14,Florida,Pompano Beach (Parkland),5901 Pine Island Rd,17,17
+2018-02-16,Oklahoma,Oklahoma City,S Pennsylvania Ave and SW 15th St,1,3
+2018-02-17,Tennessee,Memphis,3188 N Watkins Ave,0,5
+2018-02-17,Kansas,Kansas City,1615 Minnesota,1,7
+2018-02-18,Texas,San Antonio,2893 Cinema Ridge,0,5
+2018-02-23,Florida,Palm Beach Gardens (Riviera Beach),W 23rd St,1,3
+2018-02-26,Michigan,Detroit,22000 block of Fenkell Ave,5,0
+2018-02-27,Connecticut,Bridgeport,1306 Stratford Ave,0,4
+2018-03-03,Florida,Miami,1300 Block of NW 62nd Ln,0,4
+2018-03-03,New York,Brooklyn,Kings Highway and Utica Avenue,1,3
+2018-03-04,Illinois,Rockford,400 Howard Ave,1,4
+2018-03-07,Alabama,Hurtsboro,531 Main Street,2,2
+2018-03-09,North Carolina,Wadesboro,1300 E Caswell St,3,1
+2018-03-11,Michigan,Saginaw,Cumberland Ave and Hess St,0,5
+2018-03-11,Indiana,South Bend,800 block of E Dayton St,0,6
+2018-03-11,Illinois,Champaign,700 block of N Hickory St,1,3
+2018-03-12,California,Modesto,2000 block of Robertson Rd,0,4
+2018-03-13,Florida,Macclenny,South Blvd,0,4
+2018-03-17,Illinois,Harvey,16700 S Halsted St,0,4
+2018-03-17,Kentucky,Louisville,2928 W Kentucky St,0,7
+2018-03-21,California,San Francisco,949 Geneva Ave,1,5
+2018-03-24,Utah,Salt Lake City (West Valley City),3180 South 5600 West,0,4
+2018-03-29,Texas,Plano,7401 Alma Dr,1,3
+2018-03-29,New Jersey,Camden,Kaighn Ave and Haddon Ave,0,4
+2018-03-31,New Jersey,Asbury Park,Atlantic Ave and Monmouth Ave,0,5
+2018-04-01,Alabama,Mobile,3556 Halls Mill Rd,1,4
+2018-04-01,Michigan,Saginaw,600 block of Yale St,0,5
+2018-04-02,Texas,Houston,8500 block of Redcliff Rd,1,3
+2018-04-04,Louisiana,New Orleans,3300 Garden Oaks Drive,2,2
+2018-04-06,Virginia,Virginia Beach,5800 block of Pickering St,1,3
+2018-04-06,Florida,Jacksonville,6100 block of Transylvania Ave,0,4
+2018-04-08,Florida,Miami,1300 block of NW 63rd Terrace,2,2
+2018-04-08,North Carolina,Hickory,247 1st Ave NW,1,3
+2018-04-09,California,Vallejo,201 Maine St,0,4
+2018-04-15,Louisiana,Shreveport,6956 Jewella Ave,0,6
+2018-04-18,North Carolina,Asheville,73 Hansel Ave,4,3
+2018-04-20,California,San Francisco,3rd Street and Quesada Ave,1,5
+2018-04-21,Pennsylvania,Philadelphia,1800 block of W Diamond St,2,2
+2018-04-22,Louisiana,New Orleans,1900 block of St Roch Ave,1,5
+2018-04-22,Tennessee,Antioch,3571 Murfreesboro Pike,4,3
+2018-04-24,Michigan,Flint,2200 block of Ave A,0,4
+2018-04-25,Missouri,Saint Louis,1151 Northdale Dr,3,1
+2018-04-25,Arkansas,Pine Bluff,300 block of West 24th Street,0,4
+2018-04-28,North Carolina,Maxton,Modest Rd,0,5
+2018-04-29,Florida,West Palm Beach,1969 S Military Trail,1,3
+2018-04-29,North Carolina,Monroe,1500 block of Massey St,1,3
+2018-04-29,Washington,Seattle (Skyway),12603 Renton Ave S,2,2
+2018-04-29,Tennessee,Wartburg,519 South Kingston St,0,4
+2018-04-30,District of Columbia,Washington,3600 block of New York Ave NE,0,4
+2018-04-30,Florida,Pompano Beach,4251 N Dixie Hwy,0,4
+2018-05-01,Louisiana,New Orleans,3200 block of Saint Claude Ave,0,5
+2018-05-02,New York,Brooklyn,Bristol St,1,4
+2018-05-02,Minnesota,Minneapolis,2400 block of Ogema Place,0,6
+2018-05-02,Illinois,Chicago,3500 block of W Grenshaw St,1,4
+2018-05-04,Illinois,Chicago Heights,200 block of E 23rd St,0,4
+2018-05-04,North Carolina,Henderson,519 Hilliard St,0,4
+2018-05-05,Georgia,Columbus,4944 Sentry Street,0,5
+2018-05-06,Oklahoma,Stillwater,2020 East Lakeview Road,0,4
+2018-05-06,Tennessee,Memphis,499 North Watkins,2,4
+2018-05-07,California,San Diego,15th St and J St,0,5
+2018-05-09,Missouri,Saint Louis,5200 block of Minerva Avenue,0,4
+2018-05-09,Nebraska,Omaha,Sahler St and N 48th St,0,4
+2018-05-11,Oklahoma,Talihina,2nd St and Dallas St,1,4
+2018-05-11,Missouri,Saint Louis,4800 block of Farlin Ave,0,4
+2018-05-12,Nebraska,Omaha,3201 Decatur St,0,6
+2018-05-12,New Jersey,Paulsboro,275 W Buck St,0,4
+2018-05-13,California,Los Angeles,365 W Manchester Avenue,2,2
+2018-05-13,Mississippi,Byhalia,French Rd and Berta Rd,0,4
+2018-05-13,California,Stockton,2436 Belleview Street,3,2
+2018-05-14,Maryland,Baltimore,2020 Etting St,0,4
+2018-05-16,Texas,Ponder,610 Lone Star Park Ln,5,1
+2018-05-18,Texas,Santa Fe,16000 Hwy 6,10,13
+2018-05-20,Mississippi,Hazlehurst,513 Monticello St,1,7
+2018-05-20,Indiana,Anderson,1604 Madison Ave,0,4
+2018-05-25,Ohio,Cincinnati,1000 block of Ross Avenue,0,4
+2018-05-27,Colorado,Aurora,15373 E 6th Ave,1,3
+2018-05-27,Louisiana,Shreveport,857 E Stoner Ave,0,4
+2018-05-31,South Carolina,Timmonsville,544 Chaney Grove Rd,3,2
+2018-06-02,New York,Buffalo,Strauss Street,0,5
+2018-06-02,Nebraska,Omaha,S 11th St and Farnam St,1,6
+2018-06-03,Illinois,Chicago,1200 block of W 73rd Pl,1,3
+2018-06-03,Texas,Dallas,4500 Spring Ave,0,5
+2018-06-05,Florida,Jacksonville,Town Center Pkwy,3,1
+2018-06-09,Pennsylvania,Philadelphia,2000 block of 20th St,1,4
+2018-06-09,North Carolina,Kannapolis,1709 S Cannon Blvd,0,4
+2018-06-09,Massachusetts,Boston,14 Copeland St,0,4
+2018-06-10,Florida,Bradenton,5627 14th St W,1,5
+2018-06-10,California,Valley Village,12719 Tiara St,0,6
+2018-06-10,Illinois,Chicago,6400 block of S Eberhart Ave,1,5
+2018-06-10,Illinois,Aurora,300 block of W Park Ave,0,7
+2018-06-10,Illinois,Bloomington,1200 block of Orchard Rd,2,2
+2018-06-10,Indiana,Indianapolis (Lawrence),4745 N Richardt Ave,1,4
+2018-06-11,Florida,Orlando,4932 Eaglesmere Dr,5,1
+2018-06-11,Alabama,Montgomery,3220 block of Virginia Pines Ln,0,4
+2018-06-12,New York,Bronx,W 166th St and  Summit Ave,0,4
+2018-06-14,Colorado,Westminster,5150 W 80th Ave,1,3
+2018-06-14,New York,Buffalo,Marigold Ave,1,4
+2018-06-14,California,Tracy,West 6th Street,1,4
+2018-06-14,California,Union City,32992 Mission Blvd,0,5
+2018-06-14,Pennsylvania,Philadelphia,400 block of Penn St,0,4
+2018-06-17,New Jersey,Trenton,635 S Clinton Ave,1,19
+2018-06-17,North Carolina,Charlotte,3215 Queen City Dr,0,4
+2018-06-17,Illinois,Chicago,2200 block of S Sacramento Ave,0,4
+2018-06-17,Georgia,Macon,325 Edgewood Ln,1,3
+2018-06-18,Illinois,Bloomington,311 Riley Dr,3,1
+2018-06-18,Illinois,Chicago,1300 block of S Loomis St,2,3
+2018-06-19,Alabama,Huntsville,905 Lee Dr NW,0,4
+2018-06-20,California,Modesto,2300 block of West Hatch Road,0,5
+2018-06-21,Illinois,Chicago,6500 block of S Claremont Ave,0,4
+2018-06-21,Louisiana,Morganza,Deaton Ln,0,4
+2018-06-21,California,San Bernardino,279 W Base Line,1,3
+2018-06-22,Pennsylvania,Homestead (Munhall),1300 block of Margaret St,1,3
+2018-06-23,Tennessee,Covington,319 N High St,0,4
+2018-06-23,Illinois,Chicago,100 block of East 51st St,1,4
+2018-06-23,Kansas,Wichita,1403 Harding  St,0,4
+2018-06-24,North Carolina,Sanford,109 S Steele St,1,6
+2018-06-24,Florida,Punta Gorda,2450 Harbour Dr,0,4
+2018-06-24,Ohio,Sandusky,1504 Milan Rd,0,5
+2018-06-24,Florida,Palm Beach Gardens (Riviera Beach),1200 block of W 35th St,1,3
+2018-06-24,Florida,Indiantown,17068 SW Palm Beach St,0,4
+2018-06-24,Indiana,Gary,2500 block of Harrison Street,1,3
+2018-06-25,Illinois,Chicago,3900 block of S Vincennes Ave,0,6
+2018-06-27,Connecticut,Hartford,124 Hillside Ave,0,4
+2018-06-27,Texas,San Antonio,100 block of Holly Street,0,4
+2018-06-27,California,Oakland,8901 MacArthur Boulevard,1,3
+2018-06-28,Maryland,Annapolis,888 Bestgate Rd,5,0
+2018-06-30,New Jersey,Jersey City,Lexington Ave and John F Kennedy Blvd,0,5
+2018-06-30,Maryland,Baltimore,4000 block of Penhurst Ave,0,6
+2018-06-30,Georgia,Ashburn,800 Block of W. Washington,1,6
+2018-07-01,Illinois,Chicago,3400 block of W Walnut Ave,0,6
+2018-07-02,New York,Buffalo,Grape St,2,2
+2018-07-03,District of Columbia,Washington,1700 block of Benning Rd NE,0,4
+2018-07-03,Missouri,Saint Louis,1700 block of Billups Ave,1,5
+2018-07-04,Indiana,Gary,3400 block of Pierce St,1,3
+2018-07-04,Georgia,Atlanta,5456 E Fayetteville Rd,1,3
+2018-07-05,Virginia,Virginia Beach,1800 block of Atlantic Ave,0,6
+2018-07-05,California,Los Angeles,1600 block of W. 2nd Street,3,3
+2018-07-05,New York,Albany,First St and Lexington Ave,0,4
+2018-07-05,New York,Brooklyn,280 Herkimer St,0,4
+2018-07-05,Ohio,Lima,1440 Bellefontaine Ave,1,5
+2018-07-07,Alabama,Wetumpka,135 Granite Way,3,2
+2018-07-08,Tennessee,Memphis,Mount Moriah Rd and Mendenhall Rd,0,4
+2018-07-08,Alabama,Brandon,565 US-80,0,6
+2018-07-09,Florida,Orlando,Southland Blvd and Orange Blossom Trail,1,4
+2018-07-09,Delaware,Wilmington,2709 Ferris Rd,5,0
+2018-07-11,Florida,Reddick,16300 block of NW Gainesville Rd,0,4
+2018-07-11,Texas,Houston,9550 Bissonnet St,0,4
+2018-07-12,Tennessee,Memphis,3678 Powers Rd,0,5
+2018-07-13,Virginia,Richmond,1401 Roseneath Rd,1,3
+2018-07-14,Maryland,Fort Washington,9500 block of Fort Foote Rd,0,4
+2018-07-15,Colorado,Denver,50th Ave and Grant St,0,4
+2018-07-15,Tennessee,Chattanooga,1400 Cowart St,0,5
+2018-07-16,Pennsylvania,Philadelphia,2100 block of N 4th St,1,4
+2018-07-16,Florida,Palm Beach Gardens (Riviera Beach),2100 block of W 28th St,2,4
+2018-07-16,District of Columbia,Washington,300 block of 53rd St NE,1,4
+2018-07-18,Oklahoma,Oklahoma City,7201 Melrose Ln,0,4
+2018-07-20,New Jersey,Elizabeth,323 Irvington Ave,0,4
+2018-07-20,Washington,Sunnyside,500 block of S 15th St,1,4
+2018-07-21,Illinois,Chicago,3100 block of W Fulton St,2,5
+2018-07-21,Maryland,Baltimore,1000 block of Dundalk Ave,0,4
+2018-07-23,Illinois,Chicago,6400 block of S May St,0,5
+2018-07-25,Louisiana,New Orleans,7000 block of Bullard Ave,0,4
+2018-07-26,Texas,Dallas,3019 South Blvd,0,6
+2018-07-26,California,Oakland,73rd Ave and Bancroft Ave,2,2
+2018-07-26,Ohio,Cleveland,18416 St Clair Ave,1,6
+2018-07-27,Texas,Robstown,603 East Avenue J,5,0
+2018-07-27,Illinois,Chicago,1100 block of S Troy St,0,4
+2018-07-28,California,Los Angeles,8801 S Vermont Ave,2,4
+2018-07-28,Louisiana,New Orleans,3400 S Claiborne Ave,3,7
+2018-07-29,Michigan,Lansing,Spring and River Street,0,4
+2018-07-29,Arizona,Phoenix,2501 E Van Buren St,1,4
+2018-07-29,Pennsylvania,York,100 block of E Maple St,0,4
+2018-07-30,Illinois,Chicago,1200 block of S Avers Ave,0,4
+2018-07-30,Georgia,Savannah,12328 Largo Dr,0,4
+2018-07-31,California,Gardena,1212 West 135th Street,2,3
+2018-08-04,Wisconsin,Milwaukee,40th St and Vliet St,0,4
+2018-08-04,Illinois,Chicago,1600 block of N Leclaire Ave,1,3
+2018-08-04,Nevada,Las Vegas,3400 block of Coran Ln,0,6
+2018-08-05,Missouri,Kansas City,E 18th St and Highland Ave,0,6
+2018-08-05,Illinois,Chicago,1 block of N Leclaire Ave,1,4
+2018-08-05,Illinois,Chicago,1300 block of W 76th St,0,8
+2018-08-05,Illinois,Chicago,1600 block of S Avers Ave,0,4
+2018-08-05,Illinois,Chicago,900 block of S Karlov Ave,0,4
+2018-08-05,Illinois,Chicago,1300 block of S Millard Ave,1,5
+2018-08-08,Pennsylvania,Philadelphia,North 12th Street and West Huntingdon Street,2,4
+2018-08-08,New Jersey,Paterson,Mercer St and Franklin St,0,4
+2018-08-10,Michigan,Detroit,6300 block of Vinewood St,0,4
+2018-08-10,Missouri,Saint Louis,1515 N 13th St,0,4
+2018-08-11,Colorado,Thornton,4050 E 100th Ave,1,3
+2018-08-11,California,San Francisco,Geneva St and Mission St,1,4
+2018-08-11,Ohio,Columbus,1280 Summit St,0,4
+2018-08-12,Pennsylvania,Pittsburgh (East Liberty),5600 block of Broad St,0,4
+2018-08-12,California,Clearlake,4786 Yarrington Court,4,1
+2018-08-14,Pennsylvania,Wyncote,1000 S Easton Rd,0,5
+2018-08-15,South Carolina,Greenwood,,0,5
+2018-08-17,Illinois,Chicago,1600 block of W 65th St,0,7
+2018-08-18,New York,Bronx,925 Allerton Ave,0,4
+2018-08-19,Illinois,Chicago,7400 block of S Dante Ave,0,5
+2018-08-20,Ohio,Cleveland,E 94th St and Kinsman Rd,1,3
+2018-08-20,Tennessee,Jackson,60 Heritage Square,1,4
+2018-08-21,Tennessee,Memphis,2119 E Alcy Rd,0,4
+2018-08-22,Missouri,Saint Louis,I-64 and Jefferson Ave,0,4
+2018-08-23,Pennsylvania,Philadelphia,5800 block of Oakland St,0,4
+2018-08-25,Virginia,Richmond,4 N 18th St,0,5
+2018-08-25,Tennessee,Nashville,1564 9th Ave N,1,4
+2018-08-26,Texas,Wichita Falls,2400 block of Sheppard Access Rd,1,3
+2018-08-26,Florida,Jacksonville,2 Independent Dr,3,9
+2018-08-27,Arkansas,Pine Bluff,2600 block of W 34th Ave,1,3
+2018-08-31,Colorado,Aurora,1900 block of Peoria St,2,3
+2018-09-01,Ohio,Cleveland,3232 Lakeside Ave East,1,7
+2018-09-01,Florida,Fort Lauderdale (Lauderhill),5225 NW 24th Ct,1,3
+2018-09-02,New Jersey,Trenton,Stuyvesant Ave and Bryn Mawr Ave,0,4
+2018-09-02,California,San Bernardino,1277 East Lynwood Drive,0,8
+2018-09-02,New Jersey,Paterson,43 12th Ave,2,2
+2018-09-02,Alabama,Birmingham,500 23rd St S,0,7
+2018-09-02,Texas,San Antonio,600 block of Morningview St,0,4
+2018-09-02,Arkansas,Fort Smith,801 Garrison Ave,0,4
+2018-09-04,Georgia,Albany,1200 block of Gillespie Ave,0,4
+2018-09-06,Ohio,Cincinnati,511 Walnut St,4,2
+2018-09-07,Minnesota,Minneapolis,2024 N Washington Ave,1,3
+2018-09-09,Alabama,Auburn,224 W Magnolia St,1,4
+2018-09-09,Illinois,Elgin,550 S McLean Blvd,1,3
+2018-09-09,Florida,Jacksonville,,0,4
+2018-09-10,Tennessee,Memphis,140 Lt George W Lee Ave,0,5
+2018-09-11,Illinois,Chicago,10600 block of S Bensley Avenue,0,4
+2018-09-12,California,Bakersfield,660 Manwell Blvd,6,0
+2018-09-15,Wisconsin,Milwaukee,820 S 21st St,0,4
+2018-09-17,Maryland,Silver Spring,123 Amberleigh Dr,4,1
+2018-09-18,Tennessee,Memphis,4622 Faronia Rd,0,4
+2018-09-18,Louisiana,New Orleans (Algiers),1100 block of Sumner St,0,4
+2018-09-19,Illinois,Chicago,W Cermak Rd and S State St,0,4
+2018-09-19,Wisconsin,Middleton,1850 Deming Way,1,4
+2018-09-19,Pennsylvania,Masontown,1 E Church St,1,4
+2018-09-20,New York,Syracuse,1317 Midland Ave,0,5
+2018-09-20,Maryland,Aberdeen,1501 Perryman Rd,4,3
+2018-09-22,New York,Hempstead,Dolan St,0,4
+2018-09-22,District of Columbia,Washington,1800 block of Benning Rd,0,4
+2018-09-23,California,Baldwin Park,3700 block of Loma Lane,0,4
+2018-09-23,California,Bakersfield,2600 block of Chandler Court,1,4
