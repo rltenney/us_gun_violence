@@ -1,3 +1,5 @@
 data/guns.csv
 data/guns2.csv
 data/guns2_clean.csv
+.ipynb_checkpoints/
+.DS_Store
