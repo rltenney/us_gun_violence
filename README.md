@@ -19,8 +19,11 @@ All population information was obtained from the US Census Bureau.
 # Process
 
 I began by cleaning the kaggle dataset and performing some high-level EDA. I discovered, for instance, that the Mandalay Bay mass shooting in Las Vegas was notably absent from the dataset... this would have thrown off my findings irreparably, so I added it in manually.
+[Notebook 1]
+https://git.generalassemb.ly/rltenney/capstone/blob/master/notebooks/01_Initial_Preprocessing_and_EDA.ipynb
 
 I then wanted to examine what relationship, if any, there was between mass shootings and gun company stock prices. Based on visual inspection, there seems to be a correlation, although I couldn't prove causation definitively. This would be a good topic to look at in depth at a later date.
+[Notebook 2] 
 
 ![](images/aobc_mass.png?raw=true)
 
@@ -37,8 +40,6 @@ Lastly, I wanted to see if there was any way to model gun violence trends and, i
 On a national level, gun violence has increased over the past four years. The underlying causes of this escalation remain unclear to me and would have to be investigated further. However, this is a very big deal: after decades of decline, levels of violence are once again increasing.
 
 ![](images/yearly_pc_gd.png?raw=true)
-
-https://cdn.vox-cdn.com/thumbor/oVYER5nMqftXligfzHXYYQW0e4U=/0x0:417x395/920x0/filters:focal(0x0:417x395):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9371435/firearm_homicide_deaths.png
 
 On a city level, year after year, certain cities rate abysmally high in terms of gun violence. I've focused particularly on Baltimore in this project, as it's the large city that always has the highest per capita rates of violence. However, other cities such as Gary, Indiana and Wilmington, Delaware also have very high per capita rates. I think the media's obsession with gun violence in Chicago is potentially harmful: although Chicago has the highest total number of gun murders year after year, there are many cities that are worse relative to their populations. It does the residents of these cities a great disservice to underreport their respective epidemics.
 
