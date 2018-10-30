@@ -22,17 +22,21 @@ I began by cleaning the kaggle dataset and performing some high-level EDA. I dis
 
 I then wanted to examine what relationship, if any, there was between mass shootings and gun company stock prices. Based on visual inspection, there seems to be a correlation, although I couldn't prove causation definitively. This would be a good topic to look at in depth at a later date.
 
-![]aobc_mass.png
+![](images/aobc_mass.png?raw=true)
 
 Iteratively, I began to become more granular in my approach and focus. Through EDA, it was first evident that there was a wide disparity between the rates of violence of particular states. I soon discovered that cities were the actual drivers of America's high per capita rates of gun violence. I looked at yearly per capita rates for cities, and then those of large cities (>500k residents) in particular.
 
+![](images/large_cities_2017.png?raw=true)
+
 Lastly, I wanted to see if there was any way to model gun violence trends and, ideally, make future predictions. I found some tentative success using the Facebook Prophet module. It seems that there are clear seasonal trends in shootings, although I was a bit skeptical of my model's performance. Namely, I see a clear upward trend in violence over the past four years that Prophet did not take into account when forecasting.
+
+![](images/gun_violence_forecast.png?raw=true)
 
 # Conclusions
 
 On a national level, gun violence has increased over the past four years. The underlying causes of this escalation remain unclear to me and would have to be investigated further. However, this is a very big deal: after decades of decline, levels of violence are once again increasing.
 
-
+![](images/yearly_pc_gd.png?raw=true)
 
 https://cdn.vox-cdn.com/thumbor/oVYER5nMqftXligfzHXYYQW0e4U=/0x0:417x395/920x0/filters:focal(0x0:417x395):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9371435/firearm_homicide_deaths.png
 
